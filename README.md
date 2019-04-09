@@ -1,2 +1,4 @@
 # Testament-bot
-Testament bir discord botudur , tamamen türkçe ve kullanıma elverişli şekilde geliştirilmiştir , Güle Güle Kullanın.
+Tamamen türkçeleştirilmiş altyapı sizler'e sunulmuştur discord sunucumuza katılarak yardım ve takıldığınız konular hakkında bilgi alabilirsiniz. Hatta sunucumuzda komut bile paylaşıyoruz!!
+
+## Bot Altyapısı Glitch.com İçin Tasarlanmıştır "Heroku" Tarzı sitelerde Çalışmayabilir.
