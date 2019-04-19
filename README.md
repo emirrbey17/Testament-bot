@@ -1,4 +1,4 @@
-# Testament-bot
-Tamamen türkçeleştirilmiş altyapı sizler'e sunulmuştur discord sunucumuza katılarak yardım ve takıldığınız konular hakkında bilgi alabilirsiniz. Hatta sunucumuzda komut bile paylaşıyoruz!!
-
-## Bot Altyapısı Glitch.com İçin Tasarlanmıştır "Heroku" Tarzı sitelerde Çalışmayabilir.
+| Duyuru | Açıklama | 
+| ------ | ------ |
+| #1 | Bu proje sadece glitch üzerinde çalışmaktadır. |
+| #2 | Sorunlarınız için *r!destek* yazarak bize ulaşabilirsiniz. |
