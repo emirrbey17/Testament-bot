@@ -1,5 +1,5 @@
 exports.run = function(client, message, args) {
-        message.channel.send("Rise Hazır Discord Botu Altyapısı."); // message.channel.send Yazan yerdeki "channel" kısmını "author" yaparsan mesajınız DM den gider.
+        message.channel.send("Nox Hazır Discord Botu Altyapısı."); // message.channel.send Yazan yerdeki "channel" kısmını "author" yaparsan mesajınız DM den gider.
     };
 
 module.exports.conf = { // Özel ayarları belirtiyoruz
@@ -14,4 +14,4 @@ module.exports.help = {
   description: '',
   usage: 'test'
 };
-//Rise Bot
+//Rise Bot Hazır Aletyapı Servisi
