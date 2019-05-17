@@ -9,6 +9,6 @@ var prefix = ayarlar.prefix;
 module.exports = client => {
   console.log(`BOT: ${client.user.username} ismi ile giriş yapıldı!`);
   client.user.setStatus("idle");
-  client.user.setGame(`Testing Bot | TaT`); // Botunuzun Oynuyor Kısmındaki Gözüken Slogan - yazı kendinize göre düzenleyiniz.
+  client.user.setGame(`Testing Ready.js | NOX`); // Botunuzun Oynuyor Kısmındaki Gözüken Slogan - yazı kendinize göre düzenleyiniz.
   console.log(`BOT: Şu an ` + client.channels.size + ` adet kanala, ` + client.guilds.size + ` adet sunucuya ve ` + client.guilds.reduce((a, b) => a + b.memberCount, 0).toLocaleString() + ` kullanıcıya hizmet veriliyor!`);
 };
